@@ -2,11 +2,14 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 const IndexPage = () =>
-  <div>
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <Link to="/page-2/">Go to page 2</Link>
+  <div className="container">
+    <h1>Welcome on my web site</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus amet asperiores beatae dolore, dolorem doloribus eaque earum esse, explicabo ipsa laudantium nam obcaecati odit pariatur possimus ratione velit vero, voluptate.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus amet asperiores beatae dolore, dolorem doloribus eaque earum esse, explicabo ipsa laudantium nam obcaecati odit pariatur possimus ratione velit vero, voluptate.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus amet asperiores beatae dolore, dolorem doloribus eaque earum esse, explicabo ipsa laudantium nam obcaecati odit pariatur possimus ratione velit vero, voluptate.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus amet asperiores beatae dolore, dolorem doloribus eaque earum esse, explicabo ipsa laudantium nam obcaecati odit pariatur possimus ratione velit vero, voluptate.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus amet asperiores beatae dolore, dolorem doloribus eaque earum esse, explicabo ipsa laudantium nam obcaecati odit pariatur possimus ratione velit vero, voluptate.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus amet asperiores beatae dolore, dolorem doloribus eaque earum esse, explicabo ipsa laudantium nam obcaecati odit pariatur possimus ratione velit vero, voluptate.</p>
   </div>
 
 export default IndexPage
