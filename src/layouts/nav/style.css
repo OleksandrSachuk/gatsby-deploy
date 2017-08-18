@@ -5,3 +5,29 @@
     color: #FFFFFF !important;
     background: #000080 !important;
 }
+.nav.nav-tabs{
+    padding-bottom: 8px;
+}
+
+.nav-link{
+    color: #000080;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+.nav-link.active{
+    color: #ffffff;
+    background-color: #000080;
+    text-decoration: none;
+}
+
+.nav-link:hover{
+    color: #ffffff;
+    background-color: #D3D3D3;
+    text-decoration: none;
+}
+.nav-link:active{
+    color: #ffffff;
+    background-color: #000080;
+    text-decoration: none;
+}
